@@ -1,7 +1,7 @@
 # Projeto DAO JDBC - Demo
 
 Este projeto é uma demonstração prática de acesso a banco de dados em Java utilizando o padrão **DAO (Data Access Object)**.  
-O objetivo é implementar operações CRUD (Create, Read, Update, Delete) para entidades relacionadas a um sistema simples de vendas.
+O objetivo é implementar operações CRUD (Create, Read, Update, Delete) para entidades relacionadas a um sistema simples de vendas
 
 ---
 
