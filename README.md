@@ -17,7 +17,7 @@ O objetivo é implementar operações CRUD (Create, Read, Update, Delete) para e
 
 - **Implementações**
   - `DepartmentDaoJDBC`: implementação da interface usando JDBC.
-  - `SellerDaoJDBC`: implementação da interface usando JDBC.
+  - `SellerDaoJDBC`: implementação da interface usando JDBC
 
 ---
 
